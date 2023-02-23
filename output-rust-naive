@@ -1,0 +1,5 @@
+Result: 10009.23448740063
+Input = 7.199773026 seconds
+Math = 0.565044795 seconds
+Total = 7.764817821 seconds
+Throughput = 1287860.2216467892 haversines/second
